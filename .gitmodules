@@ -1,0 +1,39 @@
+[submodule "unity-explorer"]
+	path = unity-explorer
+	url = git@github.com:decentraland/unity-explorer.git
+[submodule "unity-shared-dependencies"]
+	path = unity-shared-dependencies
+	url = git@github.com:decentraland/unity-shared-dependencies.git
+[submodule "unity-gltf"]
+	path = unity-gltf
+	url = git@github.com:decentraland/unity-gltf.git
+[submodule "rpc-csharp"]
+	path = rpc-csharp
+	url = git@github.com:decentraland/rpc-csharp.git
+[submodule "client-sdk-unity"]
+	path = client-sdk-unity
+	url = git@github.com:decentraland/client-sdk-unity.git
+[submodule "ClearScript"]
+	path = ClearScript
+	url = git@github.com:decentraland/ClearScript.git
+[submodule "chrome-devtool-protocol-unity"]
+	path = chrome-devtool-protocol-unity
+	url = git@github.com:decentraland/chrome-devtool-protocol-unity.git
+[submodule "Unity3D-NSubstitute"]
+	path = Unity3D-NSubstitute
+	url = git@github.com:decentraland/Unity3D-NSubstitute.git
+[submodule "protocol"]
+	path = protocol
+	url = git@github.com:decentraland/protocol.git
+[submodule "asset-bundle-converter"]
+	path = asset-bundle-converter
+	url = git@github.com:decentraland/asset-bundle-converter.git
+[submodule "aang-renderer"]
+	path = aang-renderer
+	url = git@github.com:decentraland/aang-renderer.git
+[submodule "launcher-rust"]
+	path = launcher-rust
+	url = git@github.com:decentraland/launcher-rust.git
+[submodule "metamorph"]
+	path = metamorph
+	url = git@github.com:decentraland/metamorph.git
