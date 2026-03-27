@@ -37,3 +37,9 @@
 [submodule "metamorph"]
 	path = metamorph
 	url = git@github.com:decentraland/metamorph.git
+[submodule "MetaForge"]
+	path = MetaForge
+	url = git@github.com:decentraland/MetaForge.git
+[submodule "unity-explorer-packages"]
+	path = unity-explorer-packages
+	url = git@github.com:decentraland/unity-explorer-packages.git

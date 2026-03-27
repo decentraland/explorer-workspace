@@ -52,6 +52,7 @@ Cross-cutting packages used by the explorer and related tools.
 | **[unity-gltf](unity-gltf/)** | glTF loader — imports glTF/GLB 3D models into Unity (fork of glTFast) |
 | **[chrome-devtool-protocol-unity](chrome-devtool-protocol-unity/)** | DevTools protocol — Chrome DevTools integration for debugging scenes in Unity |
 | **[Unity3D-NSubstitute](Unity3D-NSubstitute/)** | Test mocking — NSubstitute packaged for Unity's test framework |
+| **[unity-explorer-packages](unity-explorer-packages/)** | Unity packages — third-party plugins and libraries used by the Explorer client |
 
 ### Tooling
 
@@ -61,6 +62,7 @@ Offline conversion and asset processing.
 |-----------|-------------|
 | **[asset-bundle-converter](asset-bundle-converter/)** | Asset converter — converts glTF/GLB models to Unity AssetBundles for optimized loading |
 | **[metamorph](metamorph/)** | Media converter — converts images and videos into Explorer-friendly formats (KTX2 and MP4) |
+| **[MetaForge](MetaForge/)** | CLI toolkit — manage test accounts, install/run Explorer builds, inspect preferences, tail logs, and control the launcher |
 
 ---
 
