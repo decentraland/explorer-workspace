@@ -43,3 +43,6 @@
 [submodule "unity-explorer-packages"]
 	path = unity-explorer-packages
 	url = git@github.com:decentraland/unity-explorer-packages.git
+[submodule "explorer-automation"]
+	path = explorer-automation
+	url = git@github.com:decentraland/explorer-automation.git

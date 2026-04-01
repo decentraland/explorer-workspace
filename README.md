@@ -63,6 +63,7 @@ Offline conversion and asset processing.
 | **[asset-bundle-converter](asset-bundle-converter/)** | Asset converter — converts glTF/GLB models to Unity AssetBundles for optimized loading |
 | **[metamorph](metamorph/)** | Media converter — converts images and videos into Explorer-friendly formats (KTX2 and MP4) |
 | **[MetaForge](MetaForge/)** | CLI toolkit — manage test accounts, install/run Explorer builds, inspect preferences, tail logs, and control the launcher |
+| **[explorer-automation](explorer-automation/)** | UI automation tests — AltTester-based NUnit test suite for the Explorer client using the Page Object Model pattern |
 
 ---
 
